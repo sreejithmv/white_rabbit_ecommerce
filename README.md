@@ -18,3 +18,6 @@ This project is created in Flutter for e-commerce app. This will load the dashbo
 * Product List 1: https://api.jsonbin.io/b/6066d83a7474c23d9027ec6f
 * Product List 2: https://api.jsonbin.io/b/6066d88f33089f3d96e753e4
 
+![screen1](https://github.com/sreejithmv/white_rabbit_ecommerce/blob/main/screen1.png)
+![screen1](https://github.com/sreejithmv/white_rabbit_ecommerce/blob/main/screen2.png)
+
