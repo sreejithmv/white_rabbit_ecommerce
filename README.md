@@ -1,16 +1,20 @@
 # ecommerce
 
-A new Flutter project.
+This project is create for online coding test for WhiteRabit Inc.
 
-## Getting Started
+## To Run the Project
 
-This project is a starting point for a Flutter application.
+Open Termial in the poject folder and command 
+```bash
+flutter get pub
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Description
+This project is created in Flutter for e-commerce app. This will load the dashboard page dynamicly from api data. In this project we mocked the API from api.jsonbin.io. Used apis are: 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Dashboard Loading: https://api.jsonbin.io/b/6066f39d9fc4de52061c25f3
+* Product List 1: https://api.jsonbin.io/b/6066d83a7474c23d9027ec6f
+* Product List 2: https://api.jsonbin.io/b/6066d88f33089f3d96e753e4
+
